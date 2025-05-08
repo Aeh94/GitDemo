@@ -7,5 +7,10 @@ public class methodTst {
 		System.out.println("ana cuuuutaa");
 		System.out.println("ana amiiira");
 	}
+	
+	public void touty () {
+		System.out.println("ana toutaa");
+
+	}
 
 }
